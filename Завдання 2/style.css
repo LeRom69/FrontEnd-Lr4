@@ -1,0 +1,47 @@
+.active{
+    display: none;
+}
+
+.content-text{
+    overflow: hidden;
+    margin-left: 0;
+}
+
+.content{
+    border-top: 1px solid rgb(56, 55, 61);
+    border-radius: 0px;
+    padding-top: 15px;
+}
+
+li {
+    list-style-type: none;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+  }
+  
+  ul {
+    margin: 20px;
+    padding-left: 0;
+    max-width: 600px;
+  }
+
+  a{
+    text-decoration:none;
+    color:black;
+  }
+
+.item{
+    padding: 15px 0px 15px 0px;
+}
+
+.item-text{
+    margin: 34px;
+}
+
+.accordion{
+    padding: 10px;
+    background-color: rgb(17, 17, 115);
+    margin: 30px;
+    max-width: 650px;
+}

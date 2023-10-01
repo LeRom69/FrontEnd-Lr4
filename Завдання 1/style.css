@@ -1,0 +1,36 @@
+h1{
+    margin:20px;
+}
+
+.input-style{
+    margin: 12px;
+}
+
+
+.label-style{
+    margin-right: 5px;
+}
+
+.submit-button{
+background-color: rgb(33, 100, 120);
+color: rgb(255, 255, 255);
+border: none;
+padding: 10px 20px 10px 20px;
+margin: 8px 62px 20px 20px;
+}
+
+.submit-button:hover{
+    background-color: rgb(31, 136, 168);
+}
+
+.clear-button{
+    background-color: rgb(171, 46, 46);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    margin: 8px 62px 20px 20px;
+}
+
+.clear-button:hover{
+    background-color: rgb(229, 83, 83);
+}
